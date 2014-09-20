@@ -1,0 +1,26 @@
+html, body {
+  background: #ddd;
+  margin: 0;
+  padding: 0; 
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  background: #353535;
+  height: 20%;
+}
+
+.content {
+  background: #fff;
+  width: 70%;
+  height: 70%;
+  margin: 0 auto;
+}
+
+.footer {
+  background: #222;
+  height: 10%;
+  width: 70%;
+  margin: 0 auto;
+}

@@ -1,0 +1,46 @@
+html, body {
+  background: #d8d8d8;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  margin: 12px 30px;
+}
+
+.row {
+  min-height: 150px;
+}
+
+  .row p {
+    color: #555;
+    padding: 60px;
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+    font-size: 1.6em;
+    line-height: 1.3em;
+  }
+
+.white {
+  background: #fff;
+}
+
+.blue {
+  background: #4e92df;
+}
+
+.teal {
+  background: #58e2c2;
+}
+
+.green {
+  background: #b9e78b;
+}
+
+.yellow {
+  background: #f7e53b;
+}

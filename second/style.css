@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  height: 100%;
+}
+
+.blue {
+  background: #3a6ca5;
+}
+
+.green {
+  background: #4abea3;
+}
+
+.yellow {
+  background: #b1dd85;
+  height:75%;
+}
+
+.image {
+  background: url("http://images.apple.com/watch/home/images/hero_sport_white_medium_2x.jpg") no-repeat center center;
+  background-size: cover;
+  float: left;
+  width: 33.33%;
+  height:25%;
+}
